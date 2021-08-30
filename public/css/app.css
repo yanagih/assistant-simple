@@ -134,7 +134,7 @@ div {
   color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
-  background: #00B4A0;
+  background: #7B3CFF;
   border-radius: 1.25rem;
   border-bottom-right-radius: 0;
   text-align: left;
@@ -173,7 +173,7 @@ div {
   border-top-right-radius: 1.25rem;
 }
 
-.from-watson, 
+.from-watson,
 .message-inner {
   position: relative;
   border-radius: 1.5625rem;
@@ -277,7 +277,7 @@ input:-moz-placeholder {
 }
 
 #payload-column.full {
-  width: 100%;
+  width: 0%;
   max-width: none;
   min-width: initial;
 }

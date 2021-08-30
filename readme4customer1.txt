@@ -1,2 +1,3 @@
-Please read me!
-test test for pull request
+この変更により、JSON Viewの切り替えが変わる。
+この見え方を希望されるお客様用の変更。
+
